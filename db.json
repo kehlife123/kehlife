@@ -1,0 +1,42 @@
+{
+  "guilds": {
+    "1551197793908039761": {
+      "welcome": {
+        "enabled": true,
+        "channelId": "1551203526821290047",
+        "title": "Salut",
+        "message": "Bienvenue sur **{server}**, {user}.\nNous somme maintenant **#{count}**.",
+        "imageUrl": null,
+        "showAvatar": true,
+        "dm": false,
+        "ping": true
+      },
+      "autorole": {
+        "enabled": false,
+        "roles": [],
+        "botRoles": []
+      },
+      "panels": {
+        "bd8950f8": {
+          "id": "bd8950f8",
+          "name": "Acces NSFW",
+          "title": "Acces NSFW",
+          "description": "Cliquez sur le bouton pour obtenir le rôle.",
+          "roles": [
+            "1551256671861350420"
+          ],
+          "style": "buttons",
+          "exclusive": false,
+          "channelId": "1551202780012609606",
+          "published": {
+            "channelId": "1551202780012609606",
+            "messageId": "1551267237187420241"
+          }
+        }
+      }
+    }
+  },
+  "owners": [
+    "635885235569164318"
+  ]
+}
